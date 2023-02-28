@@ -78,9 +78,9 @@ Con la subida de temperatura
 
 ![WhatsApp Image 2023-02-28 at 06 13 14](https://user-images.githubusercontent.com/116781677/221838061-1364d954-de2d-4045-aede-30f6901305c9.jpg)
 
-4. Video
+# 4. Video
 
-5. Conclusiones
+# 5. Conclusiones
 
 -El amplificador operacional LM358 se utiliza para amplificar la señal del sensor de temperatura, lo que permite que la medición sea más precisa.
 
@@ -90,7 +90,7 @@ Con la subida de temperatura
 
 -Los LED que cambian de color proporcionan una forma visual y fácil de interpretar la medición de temperatura. Por ejemplo, un LED rojo podría indicar una temperatura alta, mientras que un LED verde podría indicar una temperatura baja.
 
-6. Referencias
+# 6. Referencias
 
 "LM35 Precision Temperature Sensor" de Analog Devices: https://www.analog.com/media/en/technical-documentation/data-sheets/LM35.pdf
 
