@@ -1,14 +1,6 @@
-# Proyecto-3-
+# Proyecto-3
 
-
-
-
-
-
-
-
-
-1.OBJETIVO GENERAL
+# 1.OBJETIVO GENERAL
 
 El objetivo de la práctica de medir la temperatura utilizando el sensor LM35 y un Op-Amp es aprender a utilizar un sensor de temperatura y amplificar su señal para poder medir la temperatura con mayor precisión y exactitud.
 
@@ -19,11 +11,7 @@ El objetivo de la práctica de medir la temperatura utilizando el sensor LM35 y 
 • Realizar mediciones de temperatura y verificar la precisión del circuito. 
 • Analizar los resultados obtenidos y hacer las correspondientes conclusiones y recomendaciones.
 
-
-
-
-
-
+# 2. Marco Teorico
 
 El sensor de temperatura LM35 es un dispositivo electrónico que se utiliza para medir la temperatura con una alta precisión. Este sensor está diseñado para producir una señal de voltaje proporcional a la temperatura en grados Celsius.
 
@@ -36,10 +24,6 @@ El sensor LM35 tiene tres pines: VCC, GND y OUT. El pin VCC se utiliza para sumi
 El LM35 es un sensor muy preciso y fácil de usar, ya que no requiere calibración y proporciona una salida de voltaje lineal que es fácil de interpretar. Además, el LM35 es resistente al ruido y a las interferencias electromagnéticas, lo que lo hace ideal para su uso en ambientes industriales.
 
 En resumen, el sensor de temperatura LM35 es un dispositivo electrónico muy útil para medir la temperatura con alta precisión. Su diseño de estado sólido y su salida de voltaje lineal lo hacen fácil de usar y muy confiable en una amplia variedad de aplicaciones.
-
-
-
-
 
 ![image](https://user-images.githubusercontent.com/116819100/221759340-728fd7f5-dfce-4186-bb8b-34925318ab0c.png)
 
@@ -55,9 +39,10 @@ El amplificador operacional 358 también tiene una amplia banda de frecuencia, l
 
 En resumen, el amplificador operacional 358 es un dispositivo electrónico muy útil para amplificar señales eléctricas. Su alta ganancia, baja impedancia de entrada y salida, amplia banda de frecuencia y baja distorsión armónica lo hacen ideal para su uso en una amplia variedad de aplicaciones, desde circuitos de audio hasta circuitos de medición.
 
-
-
-
-
 ![image](https://user-images.githubusercontent.com/116819100/221760210-62cbd42f-3471-48be-93dc-ccdcbbe77c05.png)
+
+# 3. Explicacion del Procedimiento
+
+Componentes a usar
+
 
