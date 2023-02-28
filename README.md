@@ -43,4 +43,21 @@ En resumen, el sensor de temperatura LM35 es un dispositivo electrónico muy út
 
 ![image](https://user-images.githubusercontent.com/116819100/221759340-728fd7f5-dfce-4186-bb8b-34925318ab0c.png)
 
+El amplificador operacional (Op-Amp) 358 es un dispositivo electrónico que se utiliza para amplificar señales eléctricas. Es un amplificador de propósito general de alta ganancia y bajo ruido, que puede ser utilizado en una variedad de aplicaciones, desde circuitos de audio hasta circuitos de medición.
+
+El amplificador operacional 358 tiene dos entradas (positiva y negativa) y una salida. La entrada negativa se utiliza para comparar la señal de entrada con la señal de referencia, mientras que la entrada positiva se utiliza para aplicar la señal de entrada.
+
+El amplificador operacional 358 tiene una ganancia muy alta, lo que significa que puede amplificar una señal de entrada varias veces. Además, tiene una impedancia de entrada muy alta, lo que significa que no afecta la señal de entrada en gran medida.
+
+El 358 también tiene una impedancia de salida muy baja, lo que significa que puede entregar una gran cantidad de corriente sin afectar la señal de salida. Esto lo hace ideal para su uso en aplicaciones donde se requiere una carga pesada.
+
+El amplificador operacional 358 también tiene una amplia banda de frecuencia, lo que significa que puede amplificar señales de alta frecuencia sin perder su forma de onda. Además, tiene una distorsión armónica muy baja, lo que significa que puede amplificar señales sin introducir ruido o distorsión.
+
+En resumen, el amplificador operacional 358 es un dispositivo electrónico muy útil para amplificar señales eléctricas. Su alta ganancia, baja impedancia de entrada y salida, amplia banda de frecuencia y baja distorsión armónica lo hacen ideal para su uso en una amplia variedad de aplicaciones, desde circuitos de audio hasta circuitos de medición.
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/116819100/221760210-62cbd42f-3471-48be-93dc-ccdcbbe77c05.png)
 
