@@ -93,4 +93,5 @@ Con la subida de temperatura
 6. Referencias
 
 "LM35 Precision Temperature Sensor" de Analog Devices: https://www.analog.com/media/en/technical-documentation/data-sheets/LM35.pdf
+
 Hoja de datos del amplificador operacional 358 de Texas Instruments: https://www.ti.com/lit/ds/symlink/lm358-n.pdf 
